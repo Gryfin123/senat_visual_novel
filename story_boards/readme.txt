@@ -1,0 +1,1 @@
+This folder is meant to store storyboards related to the project
