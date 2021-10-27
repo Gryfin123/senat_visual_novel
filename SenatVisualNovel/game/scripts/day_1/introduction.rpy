@@ -58,7 +58,11 @@ label d1_destroy_the_wall:
 
     "You see some person sitting in front of a computer. Weird."
 
-    "You put jackhammer back and head to SenatRPG. You also collect some 4th wall rubble." 
+    "You put jackhammer back."
+
+    player "Will I get something for that?"
+
+    "Sure, have some 4th wall rubble. Now head to SenatRPG." 
     
     call d1_gryfin_gibek_argument
 
