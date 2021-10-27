@@ -4,8 +4,8 @@
 # Game runtime data
 *.rpyc
 *.rpymc
-game/cache/
-game/saves/
+SenatVisualNovel/game/cache/
+SenatVisualNovel/game/saves/
 
 # Game logs
 errors.txt
