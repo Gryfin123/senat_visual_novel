@@ -1,1 +1,297 @@
-<mxfile host="app.diagrams.net" modified="2021-10-27T12:19:45.837Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="15.5.9" etag="rqULYcUHpU76ACQUC20g" type="github"><diagram id="MbfpNnXbYf99D70c8MvE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-27T12:56:23.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="OxTjxDzvfiRxoqV3w45O" version="15.5.9" type="github">
+  <diagram id="MbfpNnXbYf99D70c8MvE" name="Page-1">
+    <mxGraphModel dx="1094" dy="1978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sINUKG4I85I86AjKpmML-68" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0D3DFF;fillColor=none;strokeWidth=3;fontColor=#0D3DFF;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-330" width="560" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-4" value="&amp;nbsp;Gibek&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-47" target="sINUKG4I85I86AjKpmML-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-47" target="sINUKG4I85I86AjKpmML-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-53" value="&amp;nbsp;Gryfin&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sINUKG4I85I86AjKpmML-5">
+          <mxGeometry x="-0.5333" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-7" target="sINUKG4I85I86AjKpmML-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-7" value="Gryfin + Gibek Argument" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-9" target="sINUKG4I85I86AjKpmML-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-9" value="Going to lecture with with Gibek" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-11" target="sINUKG4I85I86AjKpmML-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="469.99999999999955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-11" value="Ama + Gibek &lt;br&gt;Cantina" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-13" value="&amp;nbsp;Yes&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-14" target="sINUKG4I85I86AjKpmML-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-49" value="&amp;nbsp;No&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-14" target="sINUKG4I85I86AjKpmML-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-14" value="Goes player go with Gibek?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="220" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="sINUKG4I85I86AjKpmML-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="-360" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-22" target="sINUKG4I85I86AjKpmML-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-22" value="Leaving campus with Gryfin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-47" value="Gibek or Gryfin?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-48" target="sINUKG4I85I86AjKpmML-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-93" value="&amp;nbsp;Yes&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#000000;" vertex="1" connectable="0" parent="sINUKG4I85I86AjKpmML-77">
+          <mxGeometry x="0.627" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-48" value="Player Goes Back Home" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-50" value="Using 4th wall to escape from Ama unlocks Ama&#39;s plotline later and land points with Gibek" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="270" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-54" target="sINUKG4I85I86AjKpmML-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-54" value="Shopping with Gryfin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="600" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-55" target="sINUKG4I85I86AjKpmML-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-76" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Yes&amp;nbsp;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#0D3DFF;" vertex="1" connectable="0" parent="sINUKG4I85I86AjKpmML-57">
+          <mxGeometry x="-0.7597" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-67" value="&amp;nbsp;No&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-55" target="sINUKG4I85I86AjKpmML-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-55" value="Does player leave with Gryfin?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="620" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-59" target="sINUKG4I85I86AjKpmML-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-59" value="Chińczyk approaches player" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-60" target="sINUKG4I85I86AjKpmML-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-60" target="sINUKG4I85I86AjKpmML-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-60" value="Did player appease Chińczyk?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="420" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-63" target="sINUKG4I85I86AjKpmML-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="250.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-63" value="Chińczyk gives player &quot;The End Protector&quot;." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="510" y="160" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-69" value="Day 1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=none;fontColor=#0D3DFF;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-356" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-70" value="Player can earn points with Gibek here" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-130" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-71" value="Player can earn points with Gryfin here" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="750" y="-135" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-74" target="sINUKG4I85I86AjKpmML-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-74" value="Player returns next day" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="529" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-78" target="sINUKG4I85I86AjKpmML-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-78" value="&quot;The End&quot; approaches player" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="629" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-81" value="If player has positive relation with any of the characters from previous day, they show up to help player survive" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="614" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-89" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-82" target="sINUKG4I85I86AjKpmML-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-82" target="sINUKG4I85I86AjKpmML-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-82" value="Is only one character present?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="969" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-87" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-83" target="sINUKG4I85I86AjKpmML-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-83" target="sINUKG4I85I86AjKpmML-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-83" value="Does player have &quot;The End protector&quot;?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="729" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-88" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-84" target="sINUKG4I85I86AjKpmML-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-84" target="sINUKG4I85I86AjKpmML-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-84" value="Does player have &quot;The 4th wall&quot;?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="849" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-85" target="sINUKG4I85I86AjKpmML-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-85" target="sINUKG4I85I86AjKpmML-118">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="1129" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-85" value="Are two characters present?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1089" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.11;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-90" target="sINUKG4I85I86AjKpmML-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-90" value="Selected characters survive. If player has no items left, he dies." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-92" value="&amp;nbsp;No&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-91" value="Does player return next day?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-94" target="sINUKG4I85I86AjKpmML-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-94" value="Player leaves sad and eventually gets kidnapped by Shadow Realm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-95" value="Start" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;strokeColor=#030F3D;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-96" value="En" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="960" y="405" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-102" value="&amp;nbsp;No&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-99" target="sINUKG4I85I86AjKpmML-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-104" value="&amp;nbsp;Yes&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-99" target="sINUKG4I85I86AjKpmML-90">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="830" />
+              <mxPoint x="750" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-99" value="Does player give up his items to save other characters?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="790" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-103" target="sINUKG4I85I86AjKpmML-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-103" value="Player can escape to safety while &quot;The End&quot; destroys the SenatRPG." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-106" value="En" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="905" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-107" value="En" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="815" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-110" target="sINUKG4I85I86AjKpmML-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-110" value="Characters dies, but player escapes &quot;The End&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="979" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-111" value="En" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="750" y="994" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-114" target="sINUKG4I85I86AjKpmML-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-114" value="Characters destroy &quot;The End&quot; and SenatRPG lives on." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-115" value="En" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1114" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-118" target="sINUKG4I85I86AjKpmML-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-118" value="Player dies devoured by &quot;The End&quot; and ends up in Shadow Realm." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1099" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-121" value="&amp;nbsp;No&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-120" target="sINUKG4I85I86AjKpmML-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-120">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="1249.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-120" value="Did Ama receve 4th wall?" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;strokeColor=#030F3D;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="sINUKG4I85I86AjKpmML-123" target="sINUKG4I85I86AjKpmML-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-123" value="Ama realizes that she&#39;s in the game and concurs the world." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-124" value="En" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1235" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-126" value="En" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="445" y="1450" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-128" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF3B7C;fillColor=none;strokeWidth=3;fontColor=#0D3DFF;" vertex="1" parent="1">
+          <mxGeometry x="380" y="510" width="700" height="990" as="geometry" />
+        </mxCell>
+        <mxCell id="sINUKG4I85I86AjKpmML-129" value="Day 2" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=none;fontColor=#FF3B7C;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="480" width="80" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
