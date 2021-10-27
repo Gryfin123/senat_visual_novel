@@ -20,7 +20,6 @@ define gibek_score = base_gibek_score
 define base_gryfin_score = 0
 define gibek_score = base_gibek_score
 
-
 # Define transforms (used in positioning of characters on screen)
 transform far_left:
     xalign 0
@@ -38,6 +37,13 @@ transform far_right:
     xalign 1.0
     yalign 1
 
+# Define functions
+init python:
+    def restartCharacterScoresAndFlags():
+        gibek_score = base_gibek_score
+        gryfin_score = base_gryfin_score
+        PLAYER_HAS_4TH_WALL = False
+        PLAYER_HAS_THE_END_PROTECTOR = False
 
 
 

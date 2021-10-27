@@ -10,6 +10,8 @@ label start:
 
     # Block user's rollback
     $ renpy.block_rollback()
+    
+    $ restartCharacterScores()
 
     # Get users name
     call ama_finds_users_name
