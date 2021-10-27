@@ -3,11 +3,9 @@
 
 # Game runtime data
 *.rpyc
-*.save
-*.rpyb
-*/shaders.txt
-*/navigation.json
-*/persistent
+*.rpymc
+game/cache/
+game/saves/
 
 # Game logs
 errors.txt
