@@ -1,5 +1,14 @@
 # Don't include visual code settings
 .vscode
 
-# Game error log
+# Game runtime data
+*.rpyc
+*.save
+*.rpyb
+*/shaders.txt
+*/navigation.json
+*/persistent
+
+# Game logs
+errors.txt
 log.txt
