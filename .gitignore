@@ -1,2 +1,5 @@
 # Don't include visual code settings
 .vscode
+
+# Game error log
+log.txt
