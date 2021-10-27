@@ -18,7 +18,7 @@ define PLAYER_HAS_THE_END_PROTECTOR = False
 define base_gibek_score = -10
 define gibek_score = base_gibek_score
 define base_gryfin_score = 0
-define gibek_score = base_gibek_score
+define gryfin_score = base_gryfin_score
 
 # Define transforms (used in positioning of characters on screen)
 transform far_left:

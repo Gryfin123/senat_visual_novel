@@ -35,13 +35,13 @@ label d1_gryfin_gibek_argument:
 
     "..."
 
-    gryfin "It was absolutlty important!"
+    gryfin "It was absolutly important!"
 
     gryfin "I have finally had this spark! I just had to get to the drawing board and note all I had in mind."
 
-    gibek "And what was {a=call:d1_ama_pocket_info}Ama{/a} doing in all of this"
+    gibek "And what was {a=call:d1_ama_pocket_info}Ama{/a} doing in all of this?"
 
-    gryfin "She was providing me inspiration. You are playing on in my {a=call:d1_campaign_pocket_info}campaign{/a}"
+    gryfin "She was providing me inspiration. You are playing on in my {a=call:d1_campaign_pocket_info}campaign{/a}."
 
     gibek "She is your player as well."
 
@@ -49,7 +49,7 @@ label d1_gryfin_gibek_argument:
 
     gibek "It's not about you missing our appointment."
 
-    gibek "It's about being kind of a cunt and letting me know, so that I will not waste my day waiting."
+    gibek "It's about not being kind of a cunt and letting me know, so that I will not waste my day waiting."
 
     "After that they both realise you are watching them."
 
@@ -58,7 +58,7 @@ label d1_gryfin_gibek_argument:
 
     "Almost like nothing happend."
 
-    gibek "Welcome out new recruit, I see you found your way here on time."
+    gibek "Welcome, you are our new recruit, I see you found your way here."
 
     gryfin "Hi, I'm Gryfin and you are [player_name] if I'm not mistaken."
 
@@ -97,7 +97,7 @@ label d1_gryfin_gibek_argument:
 # Continuations
 label d1_go_for_gibek:
 
-    gibek_score += 10;
+    $ gibek_score += 10;
 
     gibek "Hah, see. Your unbiased person has spoken. Is it the moment where we could end the discussion?"
 
@@ -105,7 +105,7 @@ label d1_go_for_gibek:
 
     gibek "It's not true."
 
-    hide gryfin
+    hide gryfin smile
     with easeoutleft
 
     "After these word, Gryfin just rolled his eyes and left. Who knows where he went really."
@@ -116,14 +116,14 @@ label d1_go_for_gibek:
     
     player "We'll, I could stop somewhere nice and eat something."
 
-    call lunch_with_gibek
+    call d1_lunch_with_gibek
 
     return
 
 
 label d1_go_for_gryfin:
 
-    gryfin_score += 10;
+    $ gryfin_score += 10;
 
     gibek "Are you actually serious?"
 
@@ -133,7 +133,7 @@ label d1_go_for_gryfin:
 
     gibek "For the love of God, I am starting to get headache."
 
-    hide gibek
+    hide gibek cool
     with easeoutleft
 
     "Well, Gibek left. It means no smelling..."
@@ -152,15 +152,15 @@ label d1_go_for_gryfin:
 
     gryfin "Just temporarly"
 
-    call shopping_with_gryfin
+    call d1_shopping_with_gryfin
 
     return
 
 
 label d1_let_them_settle_this:
 
-    gibek_score += 5;
-    gryfin_score += 5;
+    $ gibek_score += 5;
+    $ gryfin_score += 5;
 
     gibek "..."
 
@@ -176,17 +176,23 @@ label d1_let_them_settle_this:
 
     gibek "Here, Gryfin, let's eat something. You are way more tolerable when you have your mouth full."
     
-    "Gryfin looks at you and it seems he wants to say {a=call:d1_he_want_to_say_something}something{a/}, but keeps his tongue."
+    "Gryfin looks at you and it seems he wants to say {a=call:d1_he_want_to_say_something}something{/a}, but keeps his tongue."
+
+    hide gibek
+    with easeoutleft
+
+    hide gryfin
+    with easeoutleft
 
     "They then leave. You are left alone."
 
     "The rest of your day is pretty boring."
 
-    "You learn that everyone on SenatRPG is an actual living human being with their own lifes and some day SenatRPG can be completly empty"
+    "You learn that everyone on SenatRPG is an actual living human being with their own lifes and some day SenatRPG can be completly empty."
 
     player "{i}It is a little dissapointment, but that's fair. Maybe tomorrow I will meet some more of them.{/i}"
 
-    call meeting_hag
+    call d1_meeting_hag
 
     return
 
@@ -224,3 +230,15 @@ label d1_some_things:
     player "{i}Some thing got in the way...{/a}"
 
     return
+
+label d1_he_want_to_say_something:
+
+    player "Yes?"
+
+    gryfin "No, it is just that you semi-solved our problem and we are leaving you behind."
+
+    "Don't worry, it's not in script right now."
+
+    "Best case scenarion it will throw an error."
+
+    "Worst kind, crash computer and free {i}him{/i}."
