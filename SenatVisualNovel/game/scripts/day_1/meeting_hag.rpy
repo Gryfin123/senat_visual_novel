@@ -40,7 +40,7 @@ label d1_meeting_hag:
 
     chinu "Do not come to SenatRPG tomorrow little [player_name], mark my words!"
 
-    
+
 
     show hag standard at slight_right
     with ease
@@ -131,9 +131,15 @@ label d1_chinczyk_pocket_info:
 
     player "{i}This name sound... almost familiar.{/i}"
 
-    player "{i}He's one of the people that left the server!{/i}"
+    player "{i}He's one of the final person that left the server!{/i}"
 
     $ chinczyk_name = "Chinczyk"
+    
+    player "{i}The Erased one!{/i}"
+
+    player "{i}The Ever Hungry Beast!{/i}"
+
+    player "{i}The Commy!{/i}"
 
     player "{i}I... what should I...{/i}"
 
