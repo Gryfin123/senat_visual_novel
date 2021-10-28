@@ -1,3 +1,3 @@
-label d2_intro
+label d2_intro:
 
     return
