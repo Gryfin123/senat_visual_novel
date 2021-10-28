@@ -1,6 +1,7 @@
 
 # Define variables
 define player_name = ""
+define chinczyk_name = "???"
 
 
 # Define characters
@@ -8,6 +9,7 @@ define player = Character("[player_name]", who_color="#990022", what_color="#DD6
 define ama = Character("Ama", who_color="#b8381b")
 define gibek = Character("Gibek", who_color="#7b12a8")
 define gryfin = Character("Gryfin", who_color="#34d32e")
+define chinu = Character("[chinczyk_name]", who_color="#fca737")
 
 
 # Define flags
@@ -15,7 +17,7 @@ define PLAYER_HAS_4TH_WALL = False
 define PLAYER_HAS_THE_END_PROTECTOR = False
 
 # Define Character's Score
-define base_gibek_score = -10
+define base_gibek_score = -5
 define gibek_score = base_gibek_score
 define base_gryfin_score = 0
 define gryfin_score = base_gryfin_score
