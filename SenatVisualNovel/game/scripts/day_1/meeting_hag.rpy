@@ -120,12 +120,6 @@ label d1_run_from_chinczyk:
 
     return
 
-
-
-
-
-
-
 # Side notes
 label d1_chinczyk_pocket_info:
 
