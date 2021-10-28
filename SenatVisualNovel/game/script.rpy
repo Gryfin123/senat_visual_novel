@@ -18,6 +18,8 @@ label start:
   
     call d1_intro
 
+    call d2_intro
+
     # This ends the game.
     ama "That's it, the game ends here. Hope you had fun."
     
