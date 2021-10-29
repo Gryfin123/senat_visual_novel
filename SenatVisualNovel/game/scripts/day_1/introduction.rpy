@@ -63,6 +63,8 @@ label d1_destroy_the_wall:
     player "Will I get something for that?"
 
     "Sure, have some 4th wall rubble. Now head to SenatRPG." 
+
+    $ PLAYER_HAS_4TH_WALL = True
     
     call d1_gryfin_gibek_argument
 

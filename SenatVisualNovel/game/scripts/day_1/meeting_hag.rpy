@@ -143,6 +143,8 @@ label d1_the_end_protector:
 
     "You snatch it, so that [chinczyk_name] does not see a thing."
 
+    $ PLAYER_HAS_THE_END_PROTECTOR = True
+
     "He is too involved in pulling stuff out of his bag."
 
     "Dear God... he is not even half way through."
