@@ -7,9 +7,6 @@
 # The game starts here.
 
 label start:
-
-    # Block user's rollback
-    $ renpy.block_rollback()
     
     $ restartCharacterScoresAndFlags()
 
