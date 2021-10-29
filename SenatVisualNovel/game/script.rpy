@@ -15,9 +15,13 @@ label start:
 
     # Get users name
     call ama_finds_users_name
-  
+
+    # Day 1
     call d1_intro
 
+    call d1_evening
+
+    # Day 2
     call d2_intro
 
     # This ends the game.
