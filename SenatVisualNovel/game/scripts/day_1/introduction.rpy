@@ -21,13 +21,13 @@ label d1_intro:
     menu:
 
         "Avoid the wall and keep going to SenatRPG":
-            call d1_gryfin_gibek_argument
+            call d1_gryfin_gibek_argument from _call_d1_gryfin_gibek_argument
 
         "Mark the wall, so that others can avoid it":
-            call d1_mark_the_wall
+            call d1_mark_the_wall from _call_d1_mark_the_wall
 
         "Bruteforce your way through the wall":
-            call d1_destroy_the_wall
+            call d1_destroy_the_wall from _call_d1_destroy_the_wall
 
     return
 
@@ -45,7 +45,7 @@ label d1_mark_the_wall:
 
     player "Let us be on our way."
     
-    call d1_gryfin_gibek_argument
+    call d1_gryfin_gibek_argument from _call_d1_gryfin_gibek_argument_1
 
     return
 
@@ -66,7 +66,7 @@ label d1_destroy_the_wall:
 
     $ PLAYER_HAS_4TH_WALL = True
     
-    call d1_gryfin_gibek_argument
+    call d1_gryfin_gibek_argument from _call_d1_gryfin_gibek_argument_2
 
     return
 

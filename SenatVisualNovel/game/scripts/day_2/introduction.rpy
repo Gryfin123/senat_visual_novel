@@ -34,10 +34,10 @@ label d2_intro:
     
     menu:
         "Wait for your impending doom like a bitch":
-            call d2_waiting_like_a_bitch
+            call d2_waiting_like_a_bitch from _call_d2_waiting_like_a_bitch
 
         "Wait for your impending doom like a boss":
-            call d2_waiting_like_a_badass
+            call d2_waiting_like_a_badass from _call_d2_waiting_like_a_badass
 
         "Use \"The End Protector\"" if PLAYER_HAS_THE_END_PROTECTOR:
             jump d2_end_protector_used 

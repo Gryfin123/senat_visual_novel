@@ -83,13 +83,13 @@ label d1_gryfin_gibek_argument:
         player "Well, I think..."
 
         "That Gibek has all right reasons to be mad":
-            call d1_go_for_gibek
+            call d1_go_for_gibek from _call_d1_go_for_gibek
 
         "That Gryfin is right and it is not a big deal":
-            call d1_go_for_gryfin
+            call d1_go_for_gryfin from _call_d1_go_for_gryfin
 
         "That you both are friends, and that you will solve it together":
-            call d1_let_them_settle_this
+            call d1_let_them_settle_this from _call_d1_let_them_settle_this
 
     return
 
@@ -116,7 +116,7 @@ label d1_go_for_gibek:
     
     player "We'll, I could stop somewhere nice and eat something."
 
-    call d1_lunch_with_gibek
+    call d1_lunch_with_gibek from _call_d1_lunch_with_gibek
 
     return
 
@@ -152,7 +152,7 @@ label d1_go_for_gryfin:
 
     gryfin "Just temporarly"
 
-    call d1_shopping_with_gryfin
+    call d1_shopping_with_gryfin from _call_d1_shopping_with_gryfin
 
     return
 
@@ -192,7 +192,7 @@ label d1_let_them_settle_this:
 
     player "{i}It is a little dissapointment, but that's fair. Maybe tomorrow I will meet some more of them.{/i}"
 
-    call d1_meeting_hag
+    call d1_meeting_hag from _call_d1_meeting_hag
 
     return
 

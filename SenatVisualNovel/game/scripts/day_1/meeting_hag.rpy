@@ -32,9 +32,9 @@ label d1_meeting_hag:
 
     menu:
         "Let [chinczyk_name] introduce you to he's new game system":
-            call d1_chinczyk_game_system
+            call d1_chinczyk_game_system from _call_d1_chinczyk_game_system
         "Run before he grabs you":
-            call d1_run_from_chinczyk
+            call d1_run_from_chinczyk from _call_d1_run_from_chinczyk
 
     "When you start leaving you hear [chinczyk_name] shout behind you."
 

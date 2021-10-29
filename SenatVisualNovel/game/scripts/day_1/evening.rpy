@@ -19,13 +19,13 @@ label d1_evening:
     menu: 
         "Who is to going to be?"
         "Ama":
-            call d1_chatting_with_ama
+            call d1_chatting_with_ama from _call_d1_chatting_with_ama
         
         "Gibek":
-            call d1_chatting_with_gibek
+            call d1_chatting_with_gibek from _call_d1_chatting_with_gibek
 
         "Gryfin":
-            call d1_chatting_with_gryfin
+            call d1_chatting_with_gryfin from _call_d1_chatting_with_gryfin
 
     "You finish chatting, say goodbyes and start to prepare yourself for sleep."
 
@@ -53,10 +53,10 @@ label d1_evening_hags_seed_of_doubt:
 
     menu:
         "Take it seriously and do not go to Senat tomorrow":
-            call end_did_not_go_to_senat_next_day
+            call end_did_not_go_to_senat_next_day from _call_end_did_not_go_to_senat_next_day
 
         "Warn the Senat members about danger":
-            call end_evacuate_senat
+            call end_evacuate_senat from _call_end_evacuate_senat
 
         "Ignore it, it's madman's talk":
             $ i = 1 # Do nothing in a nutshell
