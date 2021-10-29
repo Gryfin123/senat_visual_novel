@@ -4,6 +4,7 @@
 # Game runtime data
 *.rpyc
 *.rpymc
+*.rpy.bak
 SenatVisualNovel/game/cache/
 SenatVisualNovel/game/saves/
 
