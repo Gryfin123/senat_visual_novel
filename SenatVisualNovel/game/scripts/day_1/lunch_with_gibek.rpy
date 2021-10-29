@@ -58,22 +58,11 @@ label d1_lunch_with_gibek:
             "Flip the table and start screaming \"The Racoons are back!!!\"":
                 call d1_tableflip
 
-            "Redirect the talk to your person, to distract Ama":
+            "Redirect the talk to your person, to distract Ama.":
                 call d1_distract_her
 
-            "You have some rubble from before, this can be used somehow":
+            "You have some rubble from before, this can be used somehow." if PLAYER_HAS_4TH_WALL:
                 call d1_build_wall
-    else:
-        menu:
-            "Should I do anything about it?"
-            "I'm new here, let's see how this plays out":
-                call d1_let_it_play_out
-
-            "Flip the table and start screaming \"The Racoons are back!!!\"":
-                call d1_tableflip
-
-            "Redirect the talk to your person, to distract Ama":
-                call d1_distract_her
 
     return
 
