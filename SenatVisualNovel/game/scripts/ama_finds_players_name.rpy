@@ -5,14 +5,15 @@ label ama_finds_users_name:
     $ attempt_count = 0
     
     while (player_name == ""):
-        $ player_name = renpy.input("So what is it?")
-        $ player_name = player_name.strip()# The .strip() instruction removes any extra spaces the player may have typed by accident.
-        $ attempt_count += 1
         if attempt_count > 1:
             ama "Sure, I'll just choose something."
             ama "{i}Shuffle, shuffle, shuffle...{/i}"
             ama "Rubic, let's go with that."
             $ player_name = "Rubic"
+        else:
+            $ player_name = renpy.input("So what is it?")
+            $ player_name = player_name.strip()# The .strip() instruction removes any extra spaces the player may have typed by accident.
+            $ attempt_count += 1
 
     $ player_name = player_name.capitalize()
 

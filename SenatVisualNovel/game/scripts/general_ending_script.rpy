@@ -8,5 +8,7 @@ label general_ending_script:
     ama "Made by SenatRPG."
 
     "{b}THE END{/b}"
-
+    
+    $ MainMenu(confirm=False)()
+    
     return

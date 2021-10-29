@@ -9,6 +9,6 @@ label end_player_survives_the_end:
 
     "Who knows what kind of abstract danger will befall the world now."
 
-    "Buy \"SenatRPG: Shadow Across the Realm\" to learn more about [chinczyk_name]'s and [the_end] pact, to see who managed to survive the devastation and complete all twelve sigils that have to be put back in place to repair the world."
+    "Buy \"SenatRPG: Shadow Across the Realm\" to learn more about [chinczyk_name]'s and [the_end]'s pact, to see who managed to survive the devastation and complete all twelve sigils that have to be put back in place to repair the world."
 
     return

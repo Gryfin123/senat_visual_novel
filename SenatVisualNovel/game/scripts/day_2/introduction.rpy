@@ -137,7 +137,7 @@ label d2_gibek_to_the_rescue:
 
     gibek "I will not beterred from keeping it alive in you."
 
-    gibek "I remeber lessens I passed on to you, my son."
+    gibek "I remeber lessons I passed on to you, my son."
 
     gibek "I am one of the Old Guard. I am Gibek and I am the A..."
 

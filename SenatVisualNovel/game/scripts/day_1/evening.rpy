@@ -1,5 +1,8 @@
 label d1_evening:
 
+    scene black
+    with fade
+
     "Some time passed."
 
     "It's evening."
