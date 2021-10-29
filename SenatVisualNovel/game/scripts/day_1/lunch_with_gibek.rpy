@@ -47,7 +47,7 @@ label d1_lunch_with_gibek:
 
     "Ama sits next to Gibek and starts talking."
 
-    player "{i}Gibek seems unconfortable being in her vicinity [PLAYER_HAS_4TH_WALL].{/i}"
+    player "{i}Gibek seems unconfortable being in her vicinity.{/i}"
 
     if PLAYER_HAS_4TH_WALL:
         menu:
