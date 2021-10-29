@@ -1,5 +1,7 @@
 label end_evacuate_senat:
 
+    scene bg epic_scenes
+
     "You go back to your computer. Try to reach out any of Senat members. They are online. It's 5:00."
     
     player "That's fair."

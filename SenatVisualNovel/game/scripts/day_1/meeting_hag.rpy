@@ -125,7 +125,7 @@ label d1_run_from_chinczyk:
 # Side notes
 label d1_chinczyk_pocket_info:
 
-    player "{i}This name sound... almost familiar.{/i}"
+    player "{i}This sounds... almost familiar.{/i}"
 
     player "{i}He's one of the final person that left the server!{/i}"
 
@@ -139,6 +139,8 @@ label d1_chinczyk_pocket_info:
 
     player "{i}I... what should I...{/i}"
 
+    return
+
 label d1_the_end_protector:
 
     "It looks strange, almost like it would be relevant for the plot later."
@@ -150,6 +152,8 @@ label d1_the_end_protector:
     "He is too involved in pulling stuff out of his bag."
 
     "Dear God... he is not even half way through."
+    
+    return
 
 
 

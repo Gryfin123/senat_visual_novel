@@ -236,6 +236,9 @@ label d1_build_wall:
 
     "You and Gibek then evacuate as fast as you can."
 
+    $ PLAYER_BUILD_WALL_AROUND_AMA = True
+    $ PLAYER_HAS_4TH_WALL = False
+
     hide gibek
     with easeoutright
 

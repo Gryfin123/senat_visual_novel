@@ -108,7 +108,7 @@ label d1_go_for_gibek:
     hide gryfin smile
     with easeoutleft
 
-    "After these word, Gryfin just rolled his eyes and left. Who knows where he went really."
+    "After these word, Gryfin just rolled his eyes and left. Who knows where he went really. It seems like he will not show up tomorrow."
 
     "Gibek's eyes and yours interlock and then he says word you longed to hear for some time now."
 
@@ -136,7 +136,7 @@ label d1_go_for_gryfin:
     hide gibek cool
     with easeoutleft
 
-    "Well, Gibek left. It means no smelling..."
+    "Well, Gibek left. It seems like he will not show up tomorrow."
 
     player "{i}What...?{/i}"
 

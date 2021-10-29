@@ -66,6 +66,8 @@ label d1_chatting_with_ama:
 
     "You chat with Ama. It's pretty complicated."
 
+    "You chat about today, she seems to like it."
+
     return
     
 label d1_chatting_with_gibek:
@@ -74,6 +76,10 @@ label d1_chatting_with_gibek:
 
     "You chat with Gibek. It's pretty epic."
 
+    "You chat about today, he seems to like it."
+
+    "Maybe he'll even come tomorrow to see you."
+
     return
 
 label d1_chatting_with_gryfin:
@@ -81,5 +87,9 @@ label d1_chatting_with_gryfin:
     $ gryfin_score += 5
 
     "You chat with Gryfin. It's pretty confusing."
+
+    "You chat about today, he seems to like it."
+
+    "Maybe he'll even come tomorrow to see you."
 
     return

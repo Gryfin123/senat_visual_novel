@@ -39,7 +39,7 @@ label end_did_not_go_to_senat_next_day:
 
     chinu "The Greatest Roleplayer"
 
-    scene bg black_back
+    scene black
     with fade
 
     jump general_ending_script

@@ -17,6 +17,7 @@ define chinu = Character("[chinczyk_name]", who_color="#fca737")
 define PLAYER_HAS_4TH_WALL = False
 define PLAYER_HAS_THE_END_PROTECTOR = False
 define PLAYER_HAS_MET_CHINCZYK = False
+define PLAYER_BUILD_WALL_AROUND_AMA = False
 
 # Define Character's Score
 define base_gibek_score = -5
