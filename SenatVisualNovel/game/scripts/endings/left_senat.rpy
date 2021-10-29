@@ -8,7 +8,7 @@ label end_did_not_go_to_senat_next_day:
 
     "You go there 2 days later..."
 
-    scene bg outside
+    scene bg outdoors
 
     "But Senat is no more. It's not there."
 
@@ -23,11 +23,11 @@ label end_did_not_go_to_senat_next_day:
 
     "And before you can react."
 
-    scene bg shadow_realm
+    scene bg shadow realm
     show hag laugh at center
     with fade
 
-    chinu "Welkom in TavernaRPG. We are so much better."
+    chinu "Welkom in Biblioteka Przygod. We are so much better."
 
     chinu "We are better organised..."
 

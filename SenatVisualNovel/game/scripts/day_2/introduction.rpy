@@ -11,7 +11,7 @@ label d2_intro:
 
     "You go there..."
     
-    scene bg senat_burning
+    scene bg senat burning
 
     "Aaand everything is burning!"
 
@@ -105,7 +105,7 @@ label d2_4th_wall_rubble_used:
 
 label d2_fatal_ending:
 
-    scene bg black
+    scene black
 
     player "{i}And there, at this exact moment, while being crush under [the_end]'s giantic feet I realised...{/i}"
 

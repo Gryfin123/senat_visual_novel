@@ -1,21 +1,21 @@
 label end_ama_wins:
 
-    scene bg senat_burning
+    scene bg senat burning
     with fade
 
     "But the trouble is not over."
 
-    scene bg senat_burning
+    scene bg senat burning
     with fade
 
     gryfin "Something is comming."
     
-    scene bg senat_burning
+    scene bg senat burning
     with fade
 
     gibek "I can feel it too."
 
-    scene bg senat_burning
+    scene bg senat burning
     with fade
 
     "Rift in time and space tears open."

@@ -10,7 +10,7 @@ label d1_lunch_with_gibek:
 
     "He turns to you"
 
-    scene bg eating_area
+    scene bg eating area
 
     show gibek cool at center
     with dissolve
@@ -49,20 +49,19 @@ label d1_lunch_with_gibek:
 
     player "{i}Gibek seems unconfortable being in her vicinity.{/i}"
 
-    if PLAYER_HAS_4TH_WALL:
-        menu:
-            "Should I do anything about it?"
-            "I'm new here, let's see how this plays out":
-                call d1_let_it_play_out
+    menu:
+        "Should I do anything about it?"
+        "I'm new here, let's see how this plays out":
+            call d1_let_it_play_out
 
-            "Flip the table and start screaming \"The Racoons are back!!!\"":
-                call d1_tableflip
+        "Flip the table and start screaming \"The Racoons are back!!!\"":
+            call d1_tableflip
 
-            "Redirect the talk to your person, to distract Ama.":
-                call d1_distract_her
+        "Redirect the talk to your person, to distract Ama.":
+            call d1_distract_her
 
-            "You have some rubble from before, this can be used somehow." if PLAYER_HAS_4TH_WALL:
-                call d1_build_wall
+        "You have some rubble from before, this can be used somehow." if PLAYER_HAS_4TH_WALL:
+            call d1_build_wall
 
     return
 
@@ -81,7 +80,7 @@ label d1_let_it_play_out:
 
     "But she's no match for your speed."
 
-    scene bg under_the_table
+    scene bg under the table
     hide gibek
     show ama standard at center
     with fade
@@ -101,7 +100,7 @@ label d1_let_it_play_out:
 
     "Then you both go back up."
 
-    scene bg eating_area
+    scene bg eating area
     show ama standard
     with fade
 
@@ -242,7 +241,7 @@ label d1_build_wall:
     hide gibek
     with easeoutright
 
-    scene bg outside
+    scene bg outdoors
     with fade
 
 

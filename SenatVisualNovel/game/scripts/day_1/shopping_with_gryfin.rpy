@@ -1,6 +1,6 @@
 label d1_shopping_with_gryfin:
 
-    scene bg senat
+    scene black
     with fade
 
     "You go with gryfin for shopping."

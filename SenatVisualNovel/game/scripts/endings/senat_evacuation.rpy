@@ -1,7 +1,5 @@
 label end_evacuate_senat:
 
-    scene bg epic_scenes
-
     "You go back to your computer. Try to reach out any of Senat members. They are online. It's 5:00."
     
     player "That's fair."
@@ -11,6 +9,9 @@ label end_evacuate_senat:
     "You run to every SenatRPG member before the end of the night. Santa would be proud."
 
     "You gather them. At that moment from nowhere [the_end] approaches all of you."
+
+    scene bg epic scenes
+    with fade
 
     "You have creazy Mad-Max escape sequence and all go into hiding." 
     

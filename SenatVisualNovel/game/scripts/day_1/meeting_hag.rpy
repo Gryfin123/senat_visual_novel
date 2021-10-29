@@ -1,6 +1,6 @@
 label d1_meeting_hag:
 
-    scene bg outside
+    scene bg outdoors
     with fade
 
     "Some time later..."
