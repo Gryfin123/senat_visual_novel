@@ -57,6 +57,8 @@ label d1_meeting_hag:
 
     chinu "Chi..."
 
+    $ PLAYER_HAS_MET_CHINCZYK = True
+
     return
 
 

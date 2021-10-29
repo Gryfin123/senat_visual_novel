@@ -1,4 +1,4 @@
-label ending_script:
+label general_ending_script:
 
     ama "That's it, the game ends here. Hope you had fun."
 
